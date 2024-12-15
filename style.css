@@ -1,0 +1,51 @@
+body {
+    font-size: 16px;
+}
+    @media (max-width: 600px) {
+        body {
+          font-size: 14px;
+        }
+    }
+.avt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+}
+.ten {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    font-family: sans-serif, Arial;
+}
+.nut {
+    margin: 15px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: sans-serif;
+}
+.spotify {
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5px;
+    font-family: sans-serif;
+}
+.fb {
+    margin: 15px;
+    padding-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+}
+.copy {
+    display: flex;
+    padding-top: 310px;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial;
+}
